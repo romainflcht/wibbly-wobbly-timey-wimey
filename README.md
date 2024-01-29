@@ -27,7 +27,7 @@ The game is designed to be played by two players: one manipulating the bomb, and
 The manual and page layout were entirely created by my two friends. I'm not really proficient with Word and Doctor Who... Here is the manual:
 </div>
 
-- [Wibbly-Wobbly Timey-Wimey Manual.pdf](Wibbly-Wobbly_Timey-Wimey_Manual.pdf)
+- [Wibbly-Wobbly Timey-Wimey Manual.pdf](MANUAL/Wibbly-Wobbly_Timey-Wimey_Manual.pdf)
 
 
 # Puzzle description and working principle

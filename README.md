@@ -1,11 +1,11 @@
 # Wibbly-Wobbly-Timey-Wimey
 
-<center>
+<p align="center">
   <img src="_img/project_front_face.jpg" width="47%" alt="A picture of the project" style="border-radius: 5px;"/>
   <img src="_img/project_back_face.jpg" width="47%" alt="A picture of the project" style="border-radius: 5px;"/>
   <br />
   <i>The TARDIS that need to be defused.</i>
-</center>
+</p>
 <br />
 
 <div style="text-align: justify">
@@ -42,14 +42,14 @@ The manual and page layout were entirely created by my two friends. I'm not real
 The game is composed of 4 defusable puzzles that need to be defused to win the game. Each puzzle is independent of the others, and every solution is in the manual.
 
 <br /><br />
-<center>
+<p align="center">
   <img src="_img/electronic.jpg" width=32% alt="The electronic components of the TARDIS" style="border-radius: 5px;"/>
   <img src="_img/electronic1.jpg" width=32% alt="The electronic components of the TARDIS" style="border-radius: 5px;"/>
   <img src="_img/electronic2.jpg" width=32% alt="The electronic components of the TARDIS" style="border-radius: 5px;"/>
   <br />
   <i>The electronic components of the TARDIS.</i>
 
-</center>
+</p>
 <br />
 
 This project uses an Arduino MEGA as the main microcontroller. Each module consists of a custom-made electronic circuit soldered onto perfboard. The entire system is powered by four lithium-ion 18650 batteries arranged in series, allowing the project to run continuously for 45 minutes.
@@ -57,33 +57,33 @@ This project uses an Arduino MEGA as the main microcontroller. Each module consi
 
 
 ## The Timer
-<center>
+<p align="center">
     <video style="border-radius: 5px; max-height: 300px;" autoplay muted loop controls>
     <source src="_img/timer.mp4" type="video/mp4">
     </video>
-</center>
+</p>
 
 <div style="text-align: justify">
 The timer module is a simple 4-digit 7-segment display that indicates the remaining time of the game.
 </div>
 
 ## The Joystick
-<center>
+<p align="center">
     <video style="border-radius: 5px; max-height: 300px;" autoplay muted loop controls>
     <source src="_img/joystick.mp4" type="video/mp4">
     </video>
-</center>
+</p>
 
 <div style="text-align: justify">
 The joystick puzzle consists of a joystick and a 16-LED ring that displays a binary code. Based on the code shown by the ring, the user needs to identify the correct directional sequence in the manual and replicate it on the joystick to solve and unlock the puzzle.
 </div>
 
 ## The LCD
-<center>
+<p align="center">
     <video style="border-radius: 5px; max-height: 300px;" autoplay muted loop controls>
     <source src="_img/lcd.mp4" type="video/mp4">
     </video>
-</center>
+</p>
 
 <div style="text-align: justify">
 The LCD puzzle consists of an LCD screen and four buttons. Two symbols and a group of letters are displayed on the LCD. The user needs to decipher the word based on the two symbols, using the manual to unlock this puzzle.
@@ -100,40 +100,40 @@ To unlock this puzzle, you need to cut the correct combination of wires, as indi
 </div>
 
 ## The Gyroscope
-<center>
+<p align="center">
     <video style="border-radius: 5px; max-height: 300px;" autoplay muted loop controls>
     <source src="_img/gyro.mp4" type="video/mp4">
     </video>
-</center>
+</p>
 
 <div style="text-align: justify">
 The gyroscope module is pretty easy to defuse. You need to rotate the TARDIS to move a dot on the LED matrix. This dot needs to be placed on the other static dot to validate a step. You will need to do this 5 times to defuse this module.
 </div>
 
 # 3D Project
-<center>
+<p align="center">
     <video style="border-radius: 5px; max-height: 300px;" autoplay muted loop controls>
     <source src="_img/3D_project_build.mp4" type="video/mp4">
     </video>
-</center>
+</p>
 
 <div style="text-align: justify">
 The structure of the project is entirely 3D printed using a Sidewinder X1 and a Wanhao D12. One of the instructions for this project was that it needed to be demountable, so we couldn't use glue to attach components or anything (I really don't like glue anyway, ahah!).
 </div>
 
 ## The base
-<center>
+<p align="center">
   <img src="_img/structure.png" alt="3D model of base structure" style="border-radius: 5px; max-height: 300px;"/>
   <br />
   <i>3D model of the TARDIS base structure.</i>
-</center>
+</p>
 <br />
 <div style="text-align: justify">
 The main structure of the TARDIS consists of two identical bases held together by four metal rods cut to size and press-fitted inside four holes in those bases. This structure is exceptionally strong and can support my weight (70 kg) in compression, and likely even more.
 </div>
 
 ## Each faces
-<center>
+<p align="center">
   <img src="_img/front_face.png" alt="3D model of the front face" style="border-radius: 5px; max-height: 300px;"/>
   <br />
   <i>3D model of the TARDIS front face.</i>
@@ -142,7 +142,7 @@ The main structure of the TARDIS consists of two identical bases held together b
   <img src="_img/back_face.png" alt="3D model of the back face" style="border-radius: 5px; max-height: 300px;"/>
   <br />
   <i>3D model of the back TARDIS back face.</i>
-</center>
+</p>
 <br />
 
 <div style="text-align: justify">

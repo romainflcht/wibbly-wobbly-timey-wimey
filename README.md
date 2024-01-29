@@ -1,8 +1,8 @@
 # Wibbly-Wobbly-Timey-Wimey
 
 <center>
-  <img src="_img/project_front_face.jpg" width="49%" alt="A picture of the project" style="border-radius: 5px;"/>
-  <img src="_img/project_back_face.jpg" width="49%" alt="A picture of the project" style="border-radius: 5px;"/>
+  <img src="_img/project_front_face.jpg" width="47%" alt="A picture of the project" style="border-radius: 5px;"/>
+  <img src="_img/project_back_face.jpg" width="47%" alt="A picture of the project" style="border-radius: 5px;"/>
   <br />
   <i>The TARDIS that need to be defused.</i>
 </center>
